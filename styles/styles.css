@@ -1,0 +1,10 @@
+
+.welcomebox {
+  position: relative;
+  margin: 50px auto auto auto;
+  width: 40%;
+}
+
+.spanb {
+  font-weight: bold;
+}
